@@ -3,6 +3,7 @@
 class Compare_two_int{
     public static void main(String arg[])
     {
+        
         int num1=40;
         int num2=50;
          if(num1==num2)
