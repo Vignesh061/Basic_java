@@ -2,7 +2,8 @@
 //The program should then display the entered information
 import java.util.Scanner;
 
-class User_data2{
+class User_data2
+{
     public static void main(String arg[])
     {
         Scanner sc=new Scanner(System.in);

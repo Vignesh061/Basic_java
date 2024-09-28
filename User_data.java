@@ -1,4 +1,4 @@
-//Write a Java program that prompts the user to enter their name and age.
+//Q1).Write a Java program that prompts the user to enter their name and age.
 // The program should then display the entered name and age in the following format:
 import java.util.Scanner;
 class User_data{

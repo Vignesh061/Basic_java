@@ -4,6 +4,7 @@ import java.util.Scanner;
 class User_data3{
     public static void main(String arg[])
     {
+        
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter your name:");
         String name=sc.nextLine();
