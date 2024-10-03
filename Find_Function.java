@@ -1,4 +1,5 @@
-//1)• Create a class called "Find" with main function
+//Question
+//• Create a class called "Find" with main function
 //• Create a function called evenorodd with integer parameter called int num
 //• Inside Main function get integer input from user.
 //• Pass that input to the evenorodd function and let the function decide whether the number is even or odd
