@@ -1,4 +1,4 @@
-Question:
+//Question:
 
 //Write a Java program that takes five subject marks from the user as input. The program should calculate the total and average marks, then print each subject's marks, total marks, and the average mark.
 // Based on the average, the program should give feedback:
