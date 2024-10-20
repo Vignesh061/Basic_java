@@ -7,7 +7,7 @@ class User_data2
     public static void main(String arg[])
     {
         Scanner sc=new Scanner(System.in);
-        System.ou.print("Enter your name:");
+        System.out.print("Enter your name:");
         String name=sc.nextLine();
         System.out.print("Enter your age:");
         int age=sc.nextInt();
