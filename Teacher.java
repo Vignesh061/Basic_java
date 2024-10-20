@@ -7,7 +7,7 @@ class Teacher{
     }
     void myname( String name)
     {
-       this.name=na;
+       this.name=name;
     }
     public static void main(String arg[])
     {
