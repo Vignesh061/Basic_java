@@ -12,7 +12,7 @@ class User_data2
         System.out.print("Enter your age:");
         int age=sc.nextInt();
         sc.nextLine();
-        System.out.print("Enter your address:")
+        System.out.print("Enter your address:");
         String adress=sc.nextLine();
          System.out.println("Your name is :"+name);
          System.out.println("Your age is :"+age);
