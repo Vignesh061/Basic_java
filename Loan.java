@@ -1,4 +1,4 @@
-Q//uestion:
+//uestion:
 
 //Write a Java program that determines a user’s eligibility for a loan. 
 //The program should prompt the user to input their salary and age. The conditions for loan eligibility are:
